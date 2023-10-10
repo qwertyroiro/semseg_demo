@@ -1,0 +1,4 @@
+ckp/
+*.mp4
+poetry.lock
+.venv/
